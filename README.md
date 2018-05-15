@@ -1,5 +1,6 @@
 # MX config
-My personal config files for MX Linux. Just run `./runall.sh` and you should be fine. Features:
+My personal config files for MX Linux. Just run `./runall.sh` and you should be fine. Feel free to use it and
+if needed, modify to your needs. Features:
 
 - removes ClipIt
 - installs full version of vim along with simple vimrc
