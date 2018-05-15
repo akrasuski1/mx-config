@@ -1,5 +1,5 @@
 # MX config
-My personal config files for MX Linux. Just run `./runall.sh` and you should be fine. Feel free to use it and
+My personal config files for MX Linux. Just run `./runall.sh` and you should be fine. Feel free to use it and,
 if needed, modify to your needs. Features:
 
 - removes ClipIt
