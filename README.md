@@ -8,3 +8,6 @@ My personal config files for MX Linux. Just run `./runall.sh` and you should be 
 - changes a few default settings in xfce-terminal and Thunar
 - installs Chromium and sets it as default browser
 - installs light-locker as logout screen.
+
+Bonus: there's `xfconf-query-listener.sh` script, that will listen for any changes in xfce config files.
+Was quite useful for checking out what to put into scripts.
