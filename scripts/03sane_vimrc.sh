@@ -4,5 +4,5 @@ set -e
 
 if [ ! -f ~/.vimrc ]
 then
-	cp ../files/.vimrc ~/.vimrc
+	cp ../helpers/vimrc ~/.vimrc
 fi
