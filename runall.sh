@@ -20,7 +20,7 @@ do
 		tput sgr0
 		continue
 	fi
-	(cd scripts && ./$FILE > ../build/$FILE.output 2>&1)
+	(cd scripts && bash $FILE > ../build/$FILE.output 2>&1)
 	if [ $? -eq 0 ]
 	then
 		touch build/$FILE.done
